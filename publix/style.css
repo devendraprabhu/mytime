@@ -1,0 +1,41 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #fdfdfd;
+    margin: 0;
+    padding: 0;
+}
+#form_containe{
+    width: 300px;
+    margin:50px auto;
+    padding: 20px;
+    border: 1px solid black;
+    align-items: center;
+    font-size: xx-large;
+
+}
+form input{
+    width: 200px;
+    padding: 10px;
+    margin-left: 50px ;
+    margin-bottom: 15px;
+}
+form button{
+    width: 100px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    border: none;
+    margin-left: 100px;
+    font-weight: 300;
+    
+}
+form button:hover{
+    background-color: grey;
+    cursor: pointer;
+}
+h3{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}

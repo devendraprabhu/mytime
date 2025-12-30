@@ -1,0 +1,11 @@
+#thanks{
+    border: 1px solid black;
+    width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    margin-top: 200px ;
+}
+body{
+    background-color: #f0f8ff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}   
